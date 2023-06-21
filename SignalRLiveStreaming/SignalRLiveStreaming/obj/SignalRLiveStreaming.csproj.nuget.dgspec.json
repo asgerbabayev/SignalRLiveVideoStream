@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveStreaming\\SignalRLiveStreaming\\SignalRLiveStreaming.csproj": {}
+    "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveVideoStream\\SignalRLiveStreaming\\SignalRLiveStreaming\\SignalRLiveStreaming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveStreaming\\SignalRLiveStreaming\\SignalRLiveStreaming.csproj": {
+    "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveVideoStream\\SignalRLiveStreaming\\SignalRLiveStreaming\\SignalRLiveStreaming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveStreaming\\SignalRLiveStreaming\\SignalRLiveStreaming.csproj",
+        "projectUniqueName": "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveVideoStream\\SignalRLiveStreaming\\SignalRLiveStreaming\\SignalRLiveStreaming.csproj",
         "projectName": "SignalRLiveStreaming",
-        "projectPath": "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveStreaming\\SignalRLiveStreaming\\SignalRLiveStreaming.csproj",
+        "projectPath": "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveVideoStream\\SignalRLiveStreaming\\SignalRLiveStreaming\\SignalRLiveStreaming.csproj",
         "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveStreaming\\SignalRLiveStreaming\\obj\\",
+        "outputPath": "C:\\Users\\asger\\OneDrive\\Masaüstü\\SignalRLiveVideoStream\\SignalRLiveStreaming\\SignalRLiveStreaming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asger\\AppData\\Roaming\\NuGet\\NuGet.Config",
